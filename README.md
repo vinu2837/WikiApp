@@ -1,2 +1,2 @@
 # WikiApp
-A wikipedia search engine
+A wikipedia search engine Developed By Vineet Khola
